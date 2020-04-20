@@ -1,0 +1,61 @@
+body {  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  text-align: center;
+}
+
+#login_box {  
+  position: absolute;  
+  top: 50%;  
+  left: 50%;  
+  width: 27em;  
+  height: 10em;  
+  margin-top: -9em;  
+  margin-left: -15em;  
+  border-top-width: 4px;  
+  border-right-width: 4px;  
+  border-bottom-width: 4px;  
+  border-left-width: 4px;  
+  border-top-style: solid;  
+  border-right-style: solid;  
+  border-bottom-style: solid;  
+  border-left-style: solid;  
+  border-top-color: #cccccc;  
+  border-right-color: #cccccc;  
+  border-bottom-color: #cccccc;  
+  border-left-color: #cccccc;  
+  background-color: #f3f3f3;
+}
+
+#input {  
+  display: inline;  
+  border-top-width: 1px;  
+  border-top-style: none;  
+  border-top-color: black;  
+  border-right-width: 1px;  
+  border-right-style: none;  
+  border-right-color: black;  
+  border-bottom-width: 1px;  
+  border-bottom-style: none;  
+  border-bottom-color: black;  
+  border-left-width: 1px;  
+  border-left-style: none;  
+  border-left-color: black;  
+  text-align: right;
+}
+
+.img {  
+  display: inline;  
+  width: 12em;  
+  text-align: left;
+}
+
+#logo {  
+  display: inline;  
+  float: left;  
+  width: 6em;  
+  padding-left: 1.5em;
+}
+

@@ -1,0 +1,154 @@
+﻿body{
+background-color:#DEDEDE;
+font-family:arial;
+font-size:12px;
+color:#040647;
+}
+
+form {
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+
+#Maladie{
+    background-color: #FFE500;
+}
+#MaladieP{
+    background-color: #FFE500;
+	background-image: url("hachure.gif");
+}
+
+#Stage{
+    background-color: #FE8080;
+}
+#StageP{
+    background-color: #FE8080;
+	background-image: url("hachure.gif");
+}
+
+
+#Examen{
+    background-color: #9191FE;
+}
+#ExamenP{
+    background-color: #9191FE;
+	background-image: url("hachure.gif");
+
+}
+
+#Enfant_malade{
+    background-color: #FFE500;
+}
+#Enfant_maladeP{
+    background-color: #FFE500;
+	background-image: url("hachure.gif");
+
+}
+
+#Autre{
+    background-color: #99FE80;
+}
+#AutreP{
+    background-color: #99FE80;
+	background-image: url("hachure.gif");
+}
+
+
+table
+{
+    border: none;
+    border-collapse: collapse;
+    font-size:9pt;
+}
+
+th{
+    border: solid 2px black;
+}
+
+.top{
+    border-top: solid 1px black;
+}
+
+.bottom{
+    border-bottom: solid 2px black;
+    background-color: white;
+    font-size:8pt;
+}
+
+.right{
+    border-right: solid 1px black;
+}
+
+.left{
+    border-left: solid 1px black;
+}
+
+.top_left{
+    border-left: solid 1px black;
+    border-top: solid 1px black;
+}
+
+.top_right{
+    border-right: solid 1px black;
+    border-top: solid 1px black;
+}
+
+.bottom_left{
+    border-left: solid 1px black;
+    border-bottom: solid 2px black;
+    background-color: white;
+    font-size:8pt;
+}
+
+.bottom_right{
+    border-right: solid 1px black;
+    border-bottom: solid 2px black;
+    background-color: white;
+    font-size:8pt;
+}
+
+.line
+{
+    text-decoration : none;
+}
+
+.corps
+{
+    border-width:1px;
+	border-color:black;
+    border-style: solid;
+    padding: 5px;
+    border-top: none;
+}
+
+// css pour les détails de la saisie d'absence
+#exam_nom{
+    background-color: #F0FFFF;
+}
+#lieux{
+    background-color: #FFF0FF;
+}
+#ordonateur{
+    background-color: #FFFFF0;
+}
+#details{
+    background-color: #F0F0FF;
+}
+ label {
+   display : block;
+   }
+
+fieldset{
+	border: 1px solid black;
+}
+
+#fs_saisie {
+	border: 3px solid black;
+}
+
+#fs_conflits {
+	border: 3px solid red;
+	}
+
+

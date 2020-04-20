@@ -1,0 +1,30 @@
+#demo_bg {
+                position: relative;
+                background: url(../yui/assets/dual_thumb_bg2.gif) 0 5px no-repeat;
+                height: 60px;
+                width: 310px;
+            }
+
+            #demo_bg div {
+                position: absolute;
+                cursor: default;
+                top: 4px;
+            }
+
+            #demofields {
+                border: solid 1px #666;
+                margin: 5px;
+                margin-top: 0px;
+                padding: 5px;
+            }
+
+            #demo_bg span {
+                position: absolute;
+                background: url(../yui/assets/dual_thumb_highlight.gif) 0 0 repeat-x;
+                _font-size: 5px; /* prevent IE6 expanding the box height to font-size */
+                top: 10px;
+                left: 12px;
+                height: 13px;
+                width: 288px;
+            }
+

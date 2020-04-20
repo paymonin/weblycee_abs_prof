@@ -1,0 +1,66 @@
+#occupe {
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#vide {
+    background-color: white;
+}
+
+.info {
+    font-weight: bold;
+}
+
+#dimanche {
+    background-color: gray;
+}
+
+table {
+    font-size:9pt;
+    overflow:hidden;
+}
+
+th{
+    border: 1px solid black;
+}
+
+td{
+    border: 0px solid black;
+}
+
+body{
+    background-color:#DEDEDE;
+    font-family:arial;
+    font-size:12px;
+    font-height:8px;
+    color:#040647;
+
+}
+
+.corps
+{
+    border-width:1px;
+    border-color:black;
+    border-style: solid;
+    padding = 5px;
+    border-top: none;
+    width:100%;
+    overflow:auto;
+}
+
+#cal1Container {
+    margin:1em;
+}
+
+#caleventlog {
+    margin:0;	
+    padding-left: 230px;
+}
+
+#tablecontainer{
+    border: 4px inset black;
+    padding: 5px;
+    margin: 5px;
+}
+
